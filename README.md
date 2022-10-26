@@ -7,7 +7,7 @@
         <meta name="descrption" content="Hiro's resume💪">
         <title>🔥Hiroshi's Profile Page</title>
     </head>
-    <body>
+    <body style="background-color: blue;">
         <table>
             <tr>
                 <td><img src="bab.png" alt="image profice picture"></td>
