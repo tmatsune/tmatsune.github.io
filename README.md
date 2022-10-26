@@ -1,1 +1,69 @@
 # tmatsune.github.io
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="descrption" content="Hiro's resume💪">
+        <title>🔥Hiroshi's Profile Page</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <td><img src="bab.png" alt="image profice picture"></td>
+                <td><h1>Hiroshi Matsune's Resume</h1>
+                <p><em>JV basketball south hills <strong><a href="https://www.urbandictionary.com/define.php?term=Certified%20G">MVP</a></strong></em></p>
+                <a href="contacts.html">Contact information</a> </td>
+            </tr>
+        </table>
+        <hr size="1" noshade>
+        <p>Hello, my name Hiroshi Matsune. I am currently a student at south hills high school. I am looking to study business
+        in college and become a real estate agent. I am available to work all mon-friday nights as well as weekends</p>
+        <hr size="1" noshade>
+        <h3> Experience</h3>
+        <table>
+            <thead>
+                <tr>
+                  <th>Dates</th>
+                  <th>work</th>
+                </tr>
+            <tr>
+                <td>2021-2022</td>
+                <td>Assistant basketball coach</td>
+            </tr>
+            <tr>
+                <td>2020</td>
+                <td><a href="https://www.completecontroller.com/ten-most-common-mistakes-made-by-cashiers/">cashier</a></td>
+            </tr>
+        </table>
+        <hr size="1" noshade>
+        <h3>Skills</h3>
+
+        <table cellspacing="8">
+            <tr>
+                <td>Python</td>
+                <td>★★★</td>
+            </tr>
+            <tr>
+                <td>HTML</td>
+                <td>★</td>
+            </tr>
+            <tr>
+                <td>C#</td>
+                <td>★</td>
+            </tr>
+            <tr>
+                <td>CSS</td>
+                <td>★</td>
+            </tr>
+        </table>
+        <hr size="1" noshade>
+        <h3>Hobbies</h3>
+        <ol>
+            <li>Basketball</li>
+            <li>video games</li>
+            <li>working out</li>
+        </ol>
+    <p>inputs<a href="inputs.html">click here</a></p>
+    </body>
+</html>
